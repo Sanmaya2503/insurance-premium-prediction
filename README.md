@@ -135,7 +135,7 @@ insurance-premium-prediction/
 │   └── userInput.py
 │
 ├── app.py
-├── streamlit_app.py
+├── frontend.py
 ├── requirements.txt
 ├── Dockerfile
 ├── .dockerignore
