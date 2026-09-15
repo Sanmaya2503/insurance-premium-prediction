@@ -99,7 +99,7 @@ if submit:
     try:
 
         response = requests.post(
-            "http://127.0.0.1:8000/predict",
+            "https://insurance-premium-api-y9ht.onrender.com/predict",
             json=payload
         )
 
