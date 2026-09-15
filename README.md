@@ -213,3 +213,7 @@ streamlit run streamlit_app.py
 **Sanmaya Pandua**
 
 MCA | Data Science & Machine Learning
+
+## 📸 Application Preview
+
+![Insurance Premium Prediction](screenshots/app.png)
